@@ -1,7 +1,8 @@
 # Olá, eu sou a Gleiciane Sousa!
 
-* Cursando Análise e Desenvolvimento de Sistemas;
-* 2º período;
+* Cursando Análise e Desenvolvimento de Sistemas - Centro Unoversitário Celso Lisboa - 2º período;
+* Cursando Desenvolvimento FullStack - Vai Na Web;
+* Cursando Programador Web - Instituto Federal Rio Grande do Sul;
 * Buscando aperfeiçoar diariamente meu aprendizado.
 
 ##
